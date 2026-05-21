@@ -1,6 +1,6 @@
 # Tugas: Analisis & Desain Algoritma Sorting Lanjutan + Binary Tree
 
-> **Mata Kuliah:** Analisis & Desain Algoritma  
+> **Mata Kuliah:** Struktur Data  
 > **Topik:** Sorting Lanjutan (Bab 12) + Binary Tree & Heap (Bab 13)
 
 ---
